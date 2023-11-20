@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+
+body{
+    background: rgba(0, 0, 255, 0.272);
+}
+h1 img{
+
+}
+
+.imagem1{
+    float: left;
+
+}
+
+.imagem2{
+    float: right;
+
+
+}
+
+.imagem3{
+    float: none;
+}
+
